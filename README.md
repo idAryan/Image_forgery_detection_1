@@ -1,6 +1,7 @@
 # Image Forgery Detection Web App
 
 A deep learning-powered web application to detect **Copy-Move Image Forgery** using a custom-trained convolutional neural network (CNN). Built with **TensorFlow/Keras**, trained via Jupyter Notebook, and deployed using **Flask**.
+![image](https://github.com/user-attachments/assets/66a30751-ca39-4a8e-9c63-71c7f376de8e)
 
 ---
 
