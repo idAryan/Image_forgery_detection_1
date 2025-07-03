@@ -1,0 +1,6 @@
+Flask==3.0.3
+Werkzeug==3.0.1
+opencv-python==4.9.0.80
+numpy==1.26.4
+scipy==1.13.1
+tensorflow==2.18.0  # or the version you trained your model with
